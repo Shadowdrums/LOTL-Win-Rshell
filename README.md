@@ -139,9 +139,6 @@ This script is intended for educational purposes only. Ensure you have permissio
 ### License 📄
 - This project is licensed under the MIT License.
 
-### Contact 📧
-- For any questions or issues, please contact [Your Name] at [Your Email].
-
 ### Additional Information ℹ️
 - Environment Variables 🌍: Utilizes environment variables to retrieve device and user information.
 - Error Handling ❗: Includes error handling to manage and report issues during command execution.
